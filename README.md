@@ -5,5 +5,6 @@ An Instagram like app where you have hot and top feed and stories.
 
 Steps to run this app : 
 1. Clone the repository on your local environment
-2. Change the Client-ID in libimgur/src/main/java/com/scaler/libimgur/ImgurClient.kt
-3. Now it can be run either on emulator or actual device using Android Studio.
+2. Login to Imgur.com and generate a new Client Id
+3. Change the Client-ID in libimgur/src/main/java/com/scaler/libimgur/ImgurClient.kt in your local repo
+4. Now it can be run either on emulator or actual device using Android Studio.
