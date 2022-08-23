@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">trendo</string>
+    <string name="nav_hot">hot</string>
+    <string name="nav_top">top</string>
+    <string name="nav_title_hot">Hot</string>
+    <string name="nav_title_top">Top</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

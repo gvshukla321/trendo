@@ -7,7 +7,7 @@ import com.squareup.moshi.JsonClass
 @JsonClass(generateAdapter = true)
 data class GalleryResponse(
     @Json(name = "data")
-    val `data`: List<Item>?,
+    val `data`: List<Image>?,
     @Json(name = "status")
     val status: Int?,
     @Json(name = "success")
